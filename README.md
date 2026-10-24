@@ -18,4 +18,4 @@ UNINSTALL
 
 *** IF YOU ARE/WERE USING THE UNDERCARD MOD, STEP 2 IS ALREADY COMPLETE ***
 
-2) - Replace changed gml_Object_oInit_Other_4.gml with original/backup via UMT
+2) - Replace changed gml_Object_oInit_Other_4.gml with original/backup via UMT# z00t-music
